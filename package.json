@@ -1,0 +1,17 @@
+{
+  "name": "catapp_vanilla",
+  "version": "1.0.0",
+  "description": "Cat Scrapper PWA built for firebase VanillaJS - Dev edition",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave@Fusion_Arc",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^8.10.0"
+  },
+  "dependencies": {
+    "firebase": "^7.21.0"
+  }
+}
